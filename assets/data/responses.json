@@ -1,0 +1,345 @@
+{
+  "earthquake": {
+    "response": [
+      "Drop, cover, and hold on. Protect your head and neck.",
+      "Move away from windows, doors, and heavy objects that could fall.",
+      "If outdoors, move to an open area away from buildings, trees, and utility lines.",
+      "If driving, pull over safely, stop, and stay in the vehicle until the shaking stops.",
+      "Be prepared for aftershocks; they may follow the main quake."
+    ],
+    "keywords": ["seismic", "aftershock", "quake", "earth tremor"]
+  },
+  "flood": {
+    "response": [
+      "Move to higher ground immediately and avoid low-lying areas.",
+      "Do not attempt to walk or drive through floodwaters; even 6 inches of water can knock you off your feet.",
+      "Turn off utilities like gas, electricity, and water if instructed to do so.",
+      "Stay tuned to local news or weather updates for emergency alerts.",
+      "Avoid coming into contact with floodwaters; they may be contaminated."
+    ],
+    "keywords": ["flooding", "water overflow", "high water", "flash flood"]
+  },
+  "fire": {
+    "response": [
+      "Exit the building immediately using the nearest safe exit.",
+      "Do not use elevators; take the stairs instead.",
+      "Stay low to avoid inhaling smoke, which rises to the ceiling.",
+      "If your clothes catch fire, stop, drop, and roll to smother the flames.",
+      "Call emergency services once you're at a safe distance from the fire."
+    ],
+    "keywords": ["blaze", "smoke", "burn", "wildfire"]
+  },
+  "tornado": {
+    "response": [
+      "Take shelter in a basement or small, windowless room on the lowest level of the building.",
+      "Stay away from windows, doors, and outside walls.",
+      "If you’re outdoors, lie flat in a ditch or low-lying area and cover your head with your hands.",
+      "Do not try to outrun a tornado if you’re in a vehicle. Find shelter immediately.",
+      "Wait for the all-clear signal from local authorities before leaving your shelter."
+    ],
+    "keywords": ["twister", "cyclone", "funnel cloud", "windstorm"]
+  },
+  "landslide": {
+    "response": [
+      "Move away from the path of the landslide as quickly as possible.",
+      "Stay alert to unusual sounds like cracking trees or boulders knocking together.",
+      "If you can’t escape, curl into a tight ball to protect yourself.",
+      "Be cautious of additional slides; the area may remain unstable.",
+      "Avoid river valleys or low-lying areas where debris flows may go."
+    ],
+    "keywords": ["rockfall", "mudslide", "debris flow", "land slip"]
+  },
+  "tsunami": {
+    "response": [
+      "Move to higher ground immediately if you feel a strong earthquake near a coast.",
+      "Stay away from beaches, harbors, and waterways.",
+      "Pay attention to tsunami warning sirens and emergency alerts.",
+      "Do not return to low-lying areas until the all-clear signal is given.",
+      "If you’re on a boat, move to deeper waters away from the coast."
+    ],
+    "keywords": ["seaquake", "tidal wave", "ocean wave", "tsunami alert"]
+  },
+  "hurricane": {
+    "response": [
+      "Secure your home by boarding up windows and reinforcing doors.",
+      "Evacuate if local authorities issue an evacuation order.",
+      "Prepare an emergency kit with food, water, and medical supplies for at least 72 hours.",
+      "Avoid driving or walking in flooded areas; even shallow water can be dangerous.",
+      "Stay indoors and away from windows during the storm."
+    ],
+    "keywords": ["cyclone", "storm surge", "typhoon", "gale"]
+  },
+  "extreme heat": {
+    "response": [
+      "Stay hydrated by drinking plenty of water and avoiding alcohol or caffeine.",
+      "Stay indoors in air-conditioned spaces or shaded areas during peak heat hours.",
+      "Wear lightweight, light-colored, and loose-fitting clothing.",
+      "Never leave children or pets in a parked car.",
+      "Watch for signs of heat exhaustion, such as heavy sweating, dizziness, or nausea."
+    ],
+    "keywords": ["heatwave", "high temperature", "hot weather", "scorching"]
+  },
+  "blizzard": {
+    "response": [
+      "Stay indoors and keep warm. Use blankets or heaters to maintain body temperature.",
+      "If you must go outside, dress in layers and cover all exposed skin.",
+      "Avoid traveling unless absolutely necessary. If driving, keep an emergency kit in your vehicle.",
+      "Watch for signs of frostbite and hypothermia.",
+      "Ensure you have sufficient food, water, and emergency supplies."
+    ],
+    "keywords": ["snowstorm", "whiteout", "winter storm", "cold wave"]
+  },
+
+  "volcanic eruption": {
+    "response": [
+      "Evacuate immediately if authorities issue a warning or eruption is imminent.",
+      "Stay indoors to avoid ashfall; close windows and doors.",
+      "Use a mask or cloth to cover your nose and mouth to avoid inhaling ash.",
+      "Stay tuned to local news or emergency alerts for updates.",
+      "Avoid low-lying areas that could be affected by lava flows or lahars."
+    ],
+    "keywords": ["volcano", "eruption", "lava", "ashfall"]
+  },
+  "pandemic": {
+    "response": [
+      "Follow public health guidelines, including wearing masks and maintaining social distancing.",
+      "Wash your hands frequently with soap and water for at least 20 seconds.",
+      "Avoid crowded places and stay home if you feel unwell.",
+      "Get vaccinated if a vaccine is available.",
+      "Stay informed through reliable sources like WHO or CDC."
+    ],
+    "keywords": ["disease outbreak", "virus", "epidemic", "COVID"]
+  },
+  "chemical spill": {
+    "response": [
+      "Evacuate the area immediately if instructed by authorities.",
+      "Avoid inhaling fumes; use a mask or cover your nose and mouth with a cloth.",
+      "Stay upwind of the spill to minimize exposure to toxic gases.",
+      "Do not touch or attempt to clean up the chemical spill yourself.",
+      "Follow decontamination procedures if exposed to hazardous chemicals."
+    ],
+    "keywords": ["toxic leak", "hazmat", "chemical release", "spill"]
+  },
+  "nuclear disaster": {
+    "response": [
+      "Seek shelter indoors, preferably in a basement or an interior room.",
+      "Seal windows, doors, and ventilation systems to prevent radioactive particles from entering.",
+      "Listen to emergency broadcasts for evacuation orders and instructions.",
+      "Avoid consuming food or water that may be contaminated.",
+      "Decontaminate yourself by removing clothes and showering thoroughly."
+    ],
+    "keywords": ["radiation leak", "nuclear fallout", "atomic", "reactor meltdown"]
+  },
+  "drought": {
+    "response": [
+      "Conserve water by limiting usage for non-essential activities.",
+      "Avoid planting water-intensive crops if you’re in an agricultural area.",
+      "Store water safely and ensure it’s potable before consumption.",
+      "Stay informed about local water restrictions and guidelines.",
+      "Support reforestation and water conservation initiatives."
+    ],
+    "keywords": ["water shortage", "dry spell", "arid", "lack of rain"]
+  },
+  "hailstorm": {
+    "response": [
+      "Stay indoors and away from windows to avoid injury from breaking glass.",
+      "Park your vehicle in a garage or under shelter if possible.",
+      "Cover outdoor items and secure pets in a safe location.",
+      "After the storm, check for damages to your property and vehicle.",
+      "Report any injuries or significant damages to local authorities."
+    ],
+    "keywords": ["hail", "ice storm", "frozen rain", "hail damage"]
+  },
+  "oil spill": {
+    "response": [
+      "Avoid contact with contaminated water or shoreline areas.",
+      "Report sightings of oil spills to the local authorities immediately.",
+      "Assist in local cleanup efforts if trained to do so.",
+      "Follow guidelines on consuming seafood from affected regions.",
+      "Stay informed through government or environmental agencies."
+    ],
+    "keywords": ["marine pollution", "oil leak", "petroleum spill", "crude oil"]
+  },
+  "cyclone": {
+    "response": [
+      "Secure your home by boarding up windows and tying down loose objects.",
+      "Evacuate if instructed by local authorities, especially if in a flood-prone area.",
+      "Stock up on emergency supplies, including food, water, and batteries.",
+      "Stay indoors during the cyclone and away from windows.",
+      "Listen to emergency updates and follow official advice."
+    ],
+    "keywords": ["tropical storm", "typhoon", "hurricane", "storm surge"]
+  },
+  "avalanche": {
+    "response": [
+      "Move sideways out of the avalanche path if possible.",
+      "If caught, try to create an air pocket around your face.",
+      "After the avalanche stops, try to signal rescuers by shouting or using a device.",
+      "Stay informed about avalanche warnings when traveling in snowy areas.",
+      "Avoid steep slopes with heavy snow accumulation."
+    ],
+    "keywords": ["snow slide", "snowfall collapse", "snow avalanche", "mountain hazard"]
+  },
+  "sandstorm": {
+    "response": [
+      "Stay indoors and close all windows and doors.",
+      "Cover your nose and mouth with a mask or cloth to avoid inhaling dust.",
+      "Avoid driving during a sandstorm, as visibility may be poor.",
+      "Protect electronic devices and machinery from dust damage.",
+      "Keep hydrated, as sandstorms can lead to dehydration."
+    ],
+    "keywords": ["dust storm", "desert storm", "sandstorm hazard", "dust clouds"]
+  },
+  "industrial accident": {
+    "response": [
+      "Evacuate the area and follow emergency protocols.",
+      "Avoid exposure to smoke, gas, or chemical fumes.",
+      "Assist others in need, but prioritize your safety first.",
+      "Report the incident to the authorities immediately.",
+      "Stay tuned to official updates for further instructions."
+    ],
+    "keywords": ["factory accident", "workplace hazard", "industrial spill", "gas leak"]
+  },
+  "sinkhole": {
+    "response": [
+      "Evacuate the area immediately and notify authorities.",
+      "Stay away from the sinkhole and do not attempt to enter it.",
+      "Avoid driving near a sinkhole, as the ground may be unstable.",
+      "Secure pets and children in a safe area away from the hazard.",
+      "Follow guidance from engineers and disaster management teams."
+    ],
+    "keywords": ["ground collapse", "subsurface void", "sinkhole hazard", "earth cavity"]
+  },
+  "airplane crash": {
+    "response": [
+      "If onboard, follow the flight crew's safety instructions immediately.",
+      "After a crash, evacuate the aircraft as quickly as possible.",
+      "Move a safe distance from the crash site to avoid potential explosions.",
+      "Assist others if you are unharmed and can do so safely.",
+      "Report the incident to emergency services and stay updated."
+    ],
+    "keywords": ["aviation accident", "plane disaster", "flight crash", "aircraft emergency", "plane crash"]
+  },
+    "car accident": {
+      "response": [
+        "Check for injuries and call emergency services immediately.",
+        "If it’s safe, move to the side of the road to avoid traffic.",
+        "Do not leave the scene until authorities arrive.",
+        "Provide first aid to anyone injured if you're trained to do so.",
+        "Exchange contact and insurance information with other parties involved."
+      ],
+      "keywords": ["vehicle collision", "car crash", "traffic accident", "road accident"]
+    },
+
+    "bike accident": {
+      "response": [
+        "Check for injuries and call emergency services if needed.",
+        "If bleeding, apply pressure with a clean cloth to stop it.",
+        "Do not try to move if you suspect a serious injury like a broken bone.",
+        "Check the bike and road for hazards to prevent further injury.",
+        "Seek medical attention to ensure no hidden injuries, such as concussions."
+      ],
+      "keywords": ["bicycle crash", "bike collision", "cycling accident", "bike injury"]
+    },
+    "snake bite": {
+      "response": [
+        "Stay calm and avoid moving the affected limb to slow venom spread.",
+        "Call emergency services immediately.",
+        "Try to identify the snake for medical treatment (without endangering yourself).",
+        "Remove any tight clothing or jewelry near the bite site.",
+        "Keep the bitten area lower than the heart to reduce swelling."
+      ],
+      "keywords": ["venomous bite", "snake venom", "poisonous snake", "reptile bite"]
+    },
+    "dog bite": {
+      "response": [
+        "Clean the bite area with soap and water immediately.",
+        "Apply pressure to stop any bleeding, and cover the wound with a clean cloth.",
+        "Seek medical attention to prevent infection or rabies.",
+        "If the dog is known, report the bite to the authorities.",
+        "Monitor the wound for signs of infection, such as redness or swelling."
+      ],
+      "keywords": ["canine bite", "dog attack", "animal bite", "bite wound"]
+    },
+    "broken bones": {
+      "response": [
+        "Stay as still as possible and avoid moving the broken bone.",
+        "If possible, apply a splint to immobilize the area until help arrives.",
+        "Seek immediate medical attention for proper realignment and treatment.",
+        "Elevate the limb to reduce swelling, if possible.",
+        "Avoid putting weight on the broken area."
+      ],
+      "keywords": ["fracture", "bone injury", "cracked bone", "bone break"]
+    },
+    "sprains": {
+      "response": [
+        "Rest the injured joint and avoid using it to prevent further damage.",
+        "Apply ice to reduce swelling and pain.",
+        "Compress the area with an elastic bandage to prevent swelling.",
+        "Elevate the sprained joint above the level of the heart.",
+        "Seek medical attention if the pain is severe or swelling persists."
+      ],
+      "keywords": ["ligament injury", "twisted ankle", "joint sprain", "muscle strain"]
+    },
+    "heart attack": {
+      "response": [
+        "Call emergency services immediately and explain the symptoms.",
+        "Chew an aspirin (if advised and not allergic).",
+        "Stay calm and rest while waiting for medical help.",
+        "If the person becomes unconscious, administer CPR if trained.",
+        "Avoid offering food or drinks to the affected person."
+      ],
+      "keywords": ["cardiac arrest", "heart failure", "chest pain", "myocardial infarction"]
+    },
+    "stroke": {
+      "response": [
+        "Call emergency services immediately.",
+        "Note the time when symptoms started to assist medical professionals.",
+        "Keep the person calm and still until help arrives.",
+        "Do not give the person food or water.",
+        "Monitor their breathing and pulse, and administer CPR if needed."
+      ],
+      "keywords": ["brain attack", "stroke symptoms", "cerebrovascular accident", "loss of speech"]
+    },
+    "electric shock": {
+      "response": [
+        "Ensure the power source is turned off before approaching the victim.",
+        "Call emergency services immediately.",
+        "If the victim is unresponsive, begin CPR until help arrives.",
+        "If the victim is conscious, have them lie down in a safe position.",
+        "Seek medical help to assess internal damage or burns."
+      ],
+      "keywords": ["electrical injury", "shock", "electrocution", "power surge"]
+    },
+    "asthma attack": {
+      "response": [
+        "Have the person use their inhaler if they have one.",
+        "Help the person sit upright and remain calm.",
+        "Call emergency services if the inhaler does not work or symptoms worsen.",
+        "Encourage slow and deep breathing.",
+        "Ensure the person is in an environment free from allergens or irritants."
+      ],
+      "keywords": ["breathing difficulty", "asthma crisis", "respiratory distress", "bronchospasm"]
+    },
+    "allergic reaction": {
+      "response": [
+        "Identify the allergen and remove it if possible.",
+        "Administer antihistamines if available and advised.",
+        "For severe reactions, use an epinephrine injector (EpiPen) if available.",
+        "Call emergency services for severe reactions or if symptoms worsen.",
+        "Monitor the person's breathing and consciousness until help arrives."
+      ],
+      "keywords": ["allergy", "anaphylaxis", "food reaction", "bee sting"]
+    },
+    "heat stroke": {
+      "response": [
+        "Move the person to a cool, shaded area immediately.",
+        "Offer cool water to drink if the person is conscious.",
+        "Apply cool compresses to the skin or use a fan to help reduce body temperature.",
+        "Do not give the person alcohol or caffeine.",
+        "Seek medical attention immediately, as heat stroke can be life-threatening."
+      ],
+      "keywords": ["overheating", "heat exhaustion", "dehydration", "body temperature regulation"]
+    }
+  }
+  
